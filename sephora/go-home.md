@@ -4,4 +4,4 @@ When leaving the store you saw claires across the streets but your bodyguards in
 
 [Go to claires](../sephora/claires.md)
 
-[Another day, I guess](../woke-up/home.md)
+[Another day, I guess](../woke-up/woke-up.md)

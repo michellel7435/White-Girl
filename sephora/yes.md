@@ -2,4 +2,4 @@
 
 You decided to go home without buying anything.
 
-[Home](../woke-up/home.md)
+[Restart](../woke-up/woke-up.md)
