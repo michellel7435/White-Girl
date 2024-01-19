@@ -1,7 +1,7 @@
 # Unexpected sephora!
 
-You take a trip to sephora but when you entered sephora, you realized that all the TikTok viral products were sold out. You were so mad but you saw claires across the streets but your bodyguards are telling you to go home and come another day.
+You take a trip to sephora but when you entered sephora, you realized that all the TikTok viral products were sold out. When looking for a product you came across this product that looks so pretty, you were thinking if you should steal it or forget it.
 
-[Go to claires](../sephora/claires.md)
+[Why pay if I can steal?](../sephora/steal-from-sephora.md)
 
-[Go home](../sephora/go-home.md)
+[Forget it](../sephora/go-home.md)
