@@ -4,6 +4,6 @@ You have woken up in a white girl body and you suddenly have the urge to spend d
 
 [Explore the house](../explore/explore.md)
 
-[Sephora **NOW**](../sephora/yes.md)
+[Sephora **NOW**](../sephora/sephora.md)
 
 
