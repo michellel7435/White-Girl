@@ -5,4 +5,3 @@ A woman saw you stealing and reported you the manager which led to the manager c
 [Escape](../sephora/run.md)
 
 [Jail](../sephora/go-home.md)
-
