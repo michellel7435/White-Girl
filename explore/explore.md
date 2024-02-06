@@ -1,8 +1,5 @@
 # Exploring the mansion
-
-You chose to explore the mansion that your dad owned. You were going backyard and you came across an envelope with your dads name on it. You got curious so you decided to open it, when you first peeked in you saw thousands of money. You were desperately looking at the money thinking if you should steal it or ignore it.
-
+While looking through all the super goldy rich stuff, you stumble upon a huge box behind a picture frame.  You then remembered that this is where dad keeps all his super duper awesome expensive stuff, they're kind of ugly though.  You look to the right and you see a bunch of money, hundreds, fiftys, and some twenties, mostly hundreds though.  You take the money because, like, duh.
+YAY!! You now are considereed the richest girl in the country!  But... it is kind of selfish to steal from dad, I mean, he is your dad after all.  Buttttt... you could also be the richest girl in the country.
 
 [Take the money](../explore/money.md)
-
-[Ignore it](../explore/ignore.md)
