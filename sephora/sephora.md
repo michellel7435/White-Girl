@@ -1,7 +1,7 @@
 # Unexpected sephora!
-
-You take a trip to sephora but when you entered sephora, you realized that all the TikTok viral products were sold out. When looking for a product you came across this product that looks so pretty, you were thinking if you should steal it or forget it.
-
+You walk through Sephora and look at all the aisles.  You noticed all the TikTok viral products, from Drunk Elephant all the way to Summer Fridays.  It didn't matter though since you got all of those products and more.  You ended up going through the Rare Beauty section and...
+OH MY GOSH!  They have the Rare Beauty Soft Pinch Liquid Blush in the shade you've been looking for!! "Joy"!!
+However, you don't have any money, you silly goose, so you decide to do something devious.
 [Why pay if I can steal?](../sephora/steal.md)
 
 [Forget it](../sephora/go-home.md)

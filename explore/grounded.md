@@ -1,5 +1,5 @@
 # Getting caught through cameras, such a shame.
 
-You got caught stealing your daddy's money through the cameras without his permission and grounded you for 2 months.
+After he yelled at you, he slammed the door shut and you just began to think about the decision you made, you made a promise to yourself you would never ever ever EVER steal again, well at least for now.  After all the huffin and puffin from all that crying, you begin to rest your eyes.
 
-[Restart](../woke-up/woke-up.md)
+[Go to sleep and forget about it.](../woke-up/woke-up.md)

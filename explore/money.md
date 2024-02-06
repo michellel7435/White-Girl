@@ -1,6 +1,6 @@
 # Stealing
 
-You decided to take the money that was lying in an envelope in the backyard. You were so happy that you went on a shopping spree without knowing there was cameras catching our every move.
+You took the money and started to count all the hundreds you had, there was like, more than 100.  You were about to count the twenties and realized, there was a camera staring at you.  Awkward...  
 
 [Accept fate](../explore/grounded.md)
 
