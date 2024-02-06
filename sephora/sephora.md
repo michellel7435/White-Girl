@@ -3,6 +3,7 @@ You walk through Sephora and look at all the aisles.  You noticed all the TikTok
 
 OH MY GOSH!  They have the Rare Beauty Soft Pinch Liquid Blush in the shade you've been looking for!! "Joy"!!
 However, you don't have any money, you silly goose, so you decide to do something devious.
+
 [Why pay if I can steal?](../sephora/steal.md)
 
 [Forget it](../sephora/go-home.md)
