@@ -4,4 +4,4 @@ After he yelled at you, he slammed the door shut and you just began to think abo
 
 After all the huffin and puffin from all that crying, you begin to rest your eyes.
 
-[Go to sleep and forget about it.](../woke-up/woke-up.md)
+[Bad Ending: Grounded 4 Life!!](../woke-up/woke-up.md)
