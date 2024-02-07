@@ -12,6 +12,7 @@ An old white lady, probably a Karen, **saw you taking it**, she immediately **YE
 While the security guards were taking you away, you realized that you could run away, but it could be too risky...
 
 What should you do??
+
 [Run Away](../sephora/run.md)
 
 [Jail](../sephora/jail.md)
