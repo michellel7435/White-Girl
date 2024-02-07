@@ -11,4 +11,4 @@ But... it is kind of selfish to steal from dad, I mean, he is your dad after all
 
 [Take the money](../explore/money.md)
 
-[Ignore it](../explore/ignore.md)
+[Ignore it](../explore/nomoney.md)
