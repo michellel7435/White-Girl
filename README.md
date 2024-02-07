@@ -1,10 +1,5 @@
 # White Girl Trip
 # CYOA
-# Beginning The Adventure
-
-Click [Here](/woke-up/woke-up.md) to start the journey.
-
-To see the diagram of the possible outcomes, click [diagram](https://docs.google.com/drawings/d/1EliNnJDmI7_NNdkwph6BZHR2fxcDpGDavw0e-TdFbwo/edit)
 
 ### Purpose
 

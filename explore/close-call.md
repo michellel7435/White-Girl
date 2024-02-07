@@ -8,4 +8,4 @@ You just deicded to put on a pimple patch and just continued to explore the hous
 
 Yay!! **The pimples are gone now and your skin looks more clearer than ever!!**
 
-[Ending: Even though it was a boring day, at least you don't look ugly!!](../wake-up/wake-up.md)
+[Ending: Even though it was a boring day, at least you don't look ugly!!](../woke-up/woke-up.md)
