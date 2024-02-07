@@ -1,4 +1,4 @@
-# The consequences of ignoring a big paycheck ..
+# Who cares!
 
 Whatever!  Dad has enough money anyway, it wouldn't hurt to take some.
 
