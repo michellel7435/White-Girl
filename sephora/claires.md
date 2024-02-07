@@ -6,4 +6,4 @@ Turns out you were the millionth member in Claires. You were given 30 minutes to
 
 You went back home with 3 bags in each of your hands, your happiness made you forget about the pain of lifting those bags.
 
-[Home](../woke-up/woke-up.md)
+[Good Ending: Ok but do you have 20 different types of necklaces from Claires?? Didn't think so..](../woke-up/woke-up.md)
