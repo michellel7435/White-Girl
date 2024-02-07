@@ -10,3 +10,5 @@ YAY!! You now are considereed the richest girl in the country!
 But... it is kind of selfish to steal from dad, I mean, he is your dad after all.  Buttttt... you could also be the richest girl in the country.
 
 [Take the money](../explore/money.md)
+
+[Ignore it](../explore/ignore.md)
